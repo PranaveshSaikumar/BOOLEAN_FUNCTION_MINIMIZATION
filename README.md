@@ -53,6 +53,12 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
 
+**Truth Table**
+
+![image](https://github.com/PranaveshSaikumar/BOOLEAN_FUNCTION_MINIMIZATION/assets/151001393/7a85c490-0a09-48b3-bc2b-8035c988a1dc)
+
+![image](https://github.com/PranaveshSaikumar/BOOLEAN_FUNCTION_MINIMIZATION/assets/151001393/b6d16493-60be-4562-88c3-655eea698319)
+
 **RTL realization**
 
 ![image](https://github.com/PranaveshSaikumar/BOOLEAN_FUNCTION_MINIMIZATION/assets/151001393/f2197f12-a935-4eaa-8e37-90cc98de590d)
